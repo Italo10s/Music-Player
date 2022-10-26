@@ -1,4 +1,4 @@
-<h1>Music Player</h1>
+
 
 <h2>Um music player criado com HTML, CSS e JavaScript. Uma atividade proposta pelo professor Gabriel no instituto Proa.</h2>
 
